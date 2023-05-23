@@ -3,6 +3,15 @@ Repo for quick useful code
 
 ## Projects:
 
+* ### **Wikipedia:** How to automate a Wikipedia query search on Python
+The existing files return a a query result for Wikipedia content.
+
+```bash
+pip install wikipedia
+```
+Replace with your desired weblink and create your own.
+---
+
 * ### **QRcode:** How to create your a QRcode in 3 Python command lines
 The existing files create a QRcode for the [Real Python](https://realpython.com/) webpage. One must have **qrcode** to run the code. If that is not the case, please follow the steps bellow on your terminal or cmd window.
 
@@ -10,6 +19,7 @@ The existing files create a QRcode for the [Real Python](https://realpython.com/
 pip install qrcode
 ```
 Replace with your desired weblink and create your own.
+---
 
 * ### **AI Image creation:** How to create a image using ChatGPT's AI function
 The existing files create a image from scratch according to given command text. One must have **openai** to run the code. If that is not the case, please follow the steps bellow on your terminal or cmd window.
